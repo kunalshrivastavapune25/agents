@@ -11,37 +11,38 @@ Suggested Learning Path
 Video: Model Context Protocol (MCP) Explained in 20 Minutes by Shaw Talebi
 Duration: 20 minutes
 Content: Introduction to MCP, fundamental principles, and potential applications.
-2. Understanding MCP with Practical Code Examples
+https://www.classcentral.com/classroom/youtube-model-context-protocol-mcp-explained-in-20-minutes-447743
+3. Understanding MCP with Practical Code Examples
 Video: Model Context Protocol (MCP) Explained with Code Examples by AssemblyAI
 Duration: 18 minutes
 Content: Practical code examples in Python, including arithmetic operations and integration with Google Docs.
-3. In-Depth Overview of MCP and Its Applications
+4. In-Depth Overview of MCP and Its Applications
 Video: Model Context Protocol Overview - Why You Care by John Savill's Technical Training
 Duration: 31 minutes
 Content: Importance of MCP, client-server architecture, and examples of practical implementations.
-4. Building Understanding of MCP's Significance in Agentic AI Systems
+5. Building Understanding of MCP's Significance in Agentic AI Systems
 Video: All You Need to Know About Model Context Protocol (MCP) by Krish Naik
 Duration: 25 minutes
 Content: Applications of MCP in agentic AI systems and benefits for generative AI applications.
-5. Hands-On Implementation of MCP
+6. Hands-On Implementation of MCP
 Video: Model Context Protocol (MCP) in 26 Minutes - No-Code and Code Tutorial by Tina Huang
 Duration: 26 minutes
 Content: Theoretical foundations alongside hands-on coding and no-code approaches.
-6. Workshop on Creating AI Automation
+7. Workshop on Creating AI Automation
 Video: Model Context Protocol (MCP) Course - Hands-on Workshop by Kubesimplify
 Duration: Workshop style
 Content: Developing AI-powered automation tools for cloud-native environments.
-7. Implementing MCP Servers in Java
+8. Implementing MCP Servers in Java
 Video: How to Build an MCP Server in Java
 Duration: 22 minutes
 Content: Step-by-step instructions on setting up an MCP server using the Java SDK.
-8. MCP Python Tutorial
+9. MCP Python Tutorial
 Video: MCP Python Tutorial
 Content: Interactive learning focused on creating a Python Study Buddy App and an AI Research Learning MCP Server.
-9. Introduction to C# SDK for MCP
+10. Introduction to C# SDK for MCP
 Video: Introduction to the C# SDK for Model Context Protocol (MCP)
 Content: Setting up the development environment and building an MCP server using C#.
-10. Automation with Make.com and MCP
+11. Automation with Make.com and MCP
 Video: Make.com MCP Tutorial
 Duration: 16 minutes
 Content: Streamlining workflows by integrating MCP with the Make.com platform.
